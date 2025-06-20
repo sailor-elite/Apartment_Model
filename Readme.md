@@ -42,7 +42,7 @@ Dependencies can be found in ``requirements.txt``.
 
 - scikit-learn (imported as sklearn)
 
-- Utilities
+#### Utilities
 
 - tqdm
 
