@@ -1,4 +1,4 @@
-# Model for estimating real estate prices in Poland
+#### Model for estimating real estate prices in Poland
 
 Developing a model to estimate real estate prices in Poland. Data used from modelling: https://okna-bej.github.io/mieszkanka/.
 A modified version of https://prokulski.science/ approach. 
